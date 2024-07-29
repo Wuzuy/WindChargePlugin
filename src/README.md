@@ -8,3 +8,19 @@ O plugin `Wind Charge` permite personalizar a força da explosão, adicionar par
 
 A estrutura básica do projeto é a seguinte:
 
+windcharge/
+|-- src/
+| |-- main/
+| |-- java/
+| | |-- com/
+| | |-- example/
+| | |-- WindChargePlugin.java
+| | |-- WindChargeListener.java
+| |-- resources/
+| |-- plugin.yml
+| |-- config.yml
+|-- build.gradle
+|-- settings.gradle
+|-- Dockerfile
+|-- run.sh
+|-- README.md
