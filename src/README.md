@@ -8,6 +8,7 @@ O plugin `Wind Charge` permite personalizar a força da explosão, adicionar par
 
 A estrutura básica do projeto é a seguinte:
 
+```
 windcharge/
 |-- src/
 | |-- main/
@@ -24,3 +25,4 @@ windcharge/
 |-- Dockerfile
 |-- run.sh
 |-- README.md
+```
