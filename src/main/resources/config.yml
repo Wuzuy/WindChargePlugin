@@ -2,4 +2,3 @@ windcharge:
   explosionForce: 1.0   # Força da explosão do Wind Charge (valor em float)
   addParticles: true    # Adicionar partículas ao usar o Wind Charge (true/false)
   projectileSpeed: 1.0  # Velocidade do projétil do Wind Charge (valor em float)
-  particleType: splash # Altere para o tipo de partícula desejado (https://minecraft.fandom.com/wiki/Particles)
