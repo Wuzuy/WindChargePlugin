@@ -1,0 +1,7 @@
+name: WindChargePlugin
+version: '1.0'
+main: com.wuzuy.WindChargePlugin
+api-version: '1.21'
+authors: [ Wuzuy ]
+description: Plugin para personalizar o comportamento do Wind Charge.
+website: https://github.com/wuzuy
